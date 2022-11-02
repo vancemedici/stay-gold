@@ -13,8 +13,8 @@ Para i de 1 Até 10 Faça
           Leia (array[i,j])
           FimPara
           FimPara
-Para i de 1 Até 2 Faça
-     Para j de 1 Até 2 Faça
+Para i de 1 Até 10 Faça
+     Para j de 1 Até 10 Faça
           sum <- sum + array[i,j]
           FimPara
           FimPara
